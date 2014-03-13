@@ -1,4 +1,4 @@
-mangaplusplus
+Manga++
 =============
 
 Manga++
